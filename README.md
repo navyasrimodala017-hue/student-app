@@ -8,3 +8,4 @@ This project demonstrates Git version control.
 - Student reports
 -Attendence Track
 - fee Management
+application name:student app8922
