@@ -7,3 +7,4 @@ This project demonstrates Git version control.
 - Student details
 - Student reports
 -Attendence Track
+- fee Management
